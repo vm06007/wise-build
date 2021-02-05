@@ -1,1 +1,0 @@
-(this.webpackJsonpundefined=this.webpackJsonpundefined||[]).push([[48],{1296:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return o}));var a=t(0),r=t.n(a),u=t(948);function o(){return r.a.createElement(r.a.Fragment,null,r.a.createElement(u.a,{showHeader:!0,showFooter:!0}))}}}]);
